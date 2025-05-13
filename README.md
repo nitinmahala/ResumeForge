@@ -9,7 +9,7 @@ A powerful and easy-to-use resume builder built with **Next.js** and **TypeScrip
 ## 🌐 [Live Demo](https://resumeforge-mu.vercel.app/)  
 
 ---
-
+ 
 ## 📦 Features  
 
 - ✅ **Multiple Templates:** Choose from a variety of resume templates tailored to different industries and styles.  
